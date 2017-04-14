@@ -1,0 +1,21 @@
+{
+  "name": "mpu6050-nodejs",
+  "version": "0.0.0",
+  "description": "Simple method to read the mpu6050 accelerometer / gyroscope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mpu6050",
+    "gyroscope",
+    "accelerometer",
+    "raspberry",
+    "pi"
+  ],
+  "author": "chinandodo",
+  "license": "ISC",
+  "dependencies": {
+    "wiring-pi": "^2.2.1"
+  }
+}
